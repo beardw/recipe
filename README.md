@@ -1,9 +1,22 @@
-### This is a LOCAL change :)
-# recipe
-line 2 changed remotely
-The Best Roasted Carrots
-These are the tastiest carrots. They are extremely versatile: pick any seasoning you'd like!
+# My Best Roasted Carrots
+### Created by: Wes Beard
+
+### Description
+These are the **tastiest** carrots. They are *extremely* versatile: pick any seasoning you'd like!
 I like to make them crispy. 
-Created by: Wes Beard
+
+1. They are **amazing**.
+2. Carrots are good for your eyes.
+3. Orange is a fantastic colour.
+
+* Long carrots
+* Baby carrots
+* Rainbow carrots
+
+Look at how tasty!
+<img recipe.jpg>
+
+![Tasty carrot picture](recipe.jpg)
+
 last line changed locally
 ### This is a REMOTE change :O
