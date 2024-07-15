@@ -13,5 +13,10 @@ I like to make them crispy.
 * Baby carrots
 * Rainbow carrots
 
+Look at how tasty!
+<img recipe.jpg>
+
+![Tasty carrot picture](recipe.jpg)
+
 last line changed locally
 ### This is a REMOTE change :O
