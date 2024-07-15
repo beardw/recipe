@@ -1,9 +1,9 @@
-### This is a LOCAL change :)
-# recipe
-line 2 changed remotely
-The Best Roasted Carrots
+# My Best Roasted Carrots
+### Created by: Wes Beard
+
+### Description
 These are the tastiest carrots. They are extremely versatile: pick any seasoning you'd like!
 I like to make them crispy. 
-Created by: Wes Beard
+
 last line changed locally
 ### This is a REMOTE change :O
